@@ -1,0 +1,12 @@
+*.gdb/
+*.gpkg
+*.shp
+*.shx
+*.dbf
+outputs/
+reporte_*.json
+__pycache__/
+*.py[cod]
+.env
+venv/
+.DS_Store
