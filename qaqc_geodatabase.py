@@ -4,7 +4,6 @@
 QA/QC Cartográfico de Geodatabases — ISO 19157:2013
 ================================================================================
 Autor       : Ian Franco Arias Carrasco
-Institución : Servicio Aerofotogramétrico (SAF) — Fuerza Aérea de Chile
 Versión     : 1.0.0
 Fecha       : Junio 2025
 Licencia    : MIT
